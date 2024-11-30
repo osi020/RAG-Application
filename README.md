@@ -91,7 +91,7 @@ A powerful Streamlit application that enables intelligent document querying usin
 
 ### Supported Models
 All models available in your Ollama installation are automatically detected and can be selected from the dropdown menu. Common options include:
-- llama2
+- llama3.1
 - mistral
 - codellama
 
