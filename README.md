@@ -47,9 +47,9 @@ A powerful Streamlit application that enables intelligent document querying usin
 
 3. **Install Ollama**
    - Follow the instructions at [Ollama's official website](https://ollama.ai/)
-   - Install desired models (e.g., llama2, mistral, codellama)
+   - Install desired models (e.g., llama3.1, mistral, codellama)
    ```bash
-   ollama pull llama2
+   ollama pull llama3.1
    ```
 
 4. **Run the application**
