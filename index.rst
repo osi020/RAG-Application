@@ -5,13 +5,13 @@ Welcome to Document Q&A with Ollama's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   introduction
-   installation
-   configuration
-   usage
-   architecture
-   api
-   troubleshooting
+   Documentation/scripts/Scope/introduction.rst
+   Documentation/scripts/Scope/installation.rst
+   Documentation/scripts/Scope/configuration.rst
+   Documentation/scripts/Scope/usage.rst
+   Documentation/scripts/Scope/architecture.rst
+   Documentation/scripts/Scope/api.rst
+   Documentation/scripts/Scope/troubleshooting.rst
    
 
 Introduction
