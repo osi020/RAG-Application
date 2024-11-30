@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'RAG'
-copyright = '2024, GIIADS, CNN by Maalouf IMAD '
-author = 'imad maalouf'
+project = 'RAG Application'
+copyright = '2024, GIIADS, by BEDDAD Oussama '
+author = 'BEDDAD Oussama'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
