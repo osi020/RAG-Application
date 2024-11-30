@@ -36,7 +36,7 @@ A powerful Streamlit application that enables intelligent document querying usin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/document-qa-ollama.git
+   git clone https://github.com/osi020/RAG-Application/tree/main
    cd document-qa-ollama
    ```
 
