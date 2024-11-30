@@ -1,48 +1,26 @@
-RAG
-===========================
-
-
-
-.. figure:: /Documentation/images/introo.jpg
-   :width: 100%
-   :alt: Alternative text for the image
-   :name: logo
-
-
-.. raw:: html
-
-    <p style="text-align: justify;"><span style="color:#000080;"><i>    
-    
-    In this article, I will explain the concept of Retrieval-Augmented Generation (RAG), providing numerous examples and discussing the advantages of using RAG models. RAG effectively combines the capabilities of retrieval systems and generative models to create more informed and contextually relevant outputs. Let’s dive into RAG in detail.
-   To illustrate the application of RAG, I will demonstrate how it can be implemented in a Streamlit application. Here, we can build an interactive interface that showcases the differences between various language models 
-    </i></span></p>
-
----------------------------------------------------------------------------
- 
-.. toctree::
-   :maxdepth: 3
-   :caption: Introduction
-
-   Documentation/scripts/Scope/introduction.rst
+Welcome to Document Q&A with Ollama's documentation!
+=================================================
 
 .. toctree::
-   :maxdepth: 4
-   :caption: Architecture
+   :maxdepth: 2
+   :caption: Contents:
 
+   introduction
+   installation
+   configuration
+   usage
+   architecture
+   api
+   troubleshooting
+   
 
+Introduction
+------------
+Document Q&A with Ollama est une application Streamlit qui permet d'interagir intelligemment avec vos documents en utilisant des modèles de langage locaux via Ollama. Cette documentation vous guidera à travers l'installation, la configuration et l'utilisation de l'application.
 
+Indices and tables
+==================
 
-
-
-.. toctree::
-   :maxdepth: 4
-   :caption: Implimentation
-
-
-
-.. raw:: html
-
-    <p><span style="color:white;">'</p></span>
-
-
-
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
