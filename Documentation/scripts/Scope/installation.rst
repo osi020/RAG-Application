@@ -30,6 +30,7 @@ Installation d'Ollama
 
 Configuration Initiale
 -------------------
+
 1. Vérifiez que le serveur Ollama est en cours d'exécution
 2. Lancez l'application :
 
