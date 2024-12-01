@@ -36,8 +36,9 @@ A powerful Streamlit application that enables intelligent document querying usin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/osi020/RAG-Application/tree/main
-   cd document-qa-ollama
+    git clone https://github.com/osi020/RAG-Application.git
+    cd RAG-Application
+
    ```
 
 2. **Install dependencies**
