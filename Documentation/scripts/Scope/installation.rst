@@ -12,8 +12,8 @@ Installation des Dépendances
 -------------------------
 .. code-block:: bash
 
-   git clone https://github.com/yourusername/document-qa-ollama.git
-   cd document-qa-ollama
+   git clone https://github.com/osi020/RAG-Application.git
+   cd RAG-Application
    pip install -r requirements.txt
 
 Installation d'Ollama
@@ -27,6 +27,7 @@ Installation d'Ollama
    ollama pull llama3.1
    ollama pull mistral
    ollama pull codellama
+   ollama pull aya-expanse
 
 Configuration Initiale
 -------------------

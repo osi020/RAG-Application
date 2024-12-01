@@ -44,6 +44,7 @@ Modèles Supportés
 - llama3.1
 - mistral
 - codellama
+- aya-expanse
 
 Paramètres Avancés
 ----------------

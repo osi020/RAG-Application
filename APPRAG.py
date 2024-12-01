@@ -72,7 +72,7 @@ def get_available_models():
         response = requests.get('http://localhost:11434/api/tags')
         return [model['name'] for model in response.json()['models']]
     except:
-        return ['llama3.1', 'mistral', 'codellama']
+        return ['llama3.1', 'mistral', 'codellama','aya-expanse']
 
 # Initialiser les états de session
 if 'conversation_history' not in st.session_state:
